@@ -1,4 +1,4 @@
-# Hands On Machine Learning
+# Hands On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 Welcome to my GitHub repository! Here, I document my journey as I learn and apply concepts from the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron (O'Reilly). This repository is a compilation of all the code exercises, projects, and insights I gain while exploring the world of Machine Learning (ML).
 
